@@ -1,2 +1,2 @@
-# brain_bot
-Brain WhatsApp Bot
+# Brain Bot
+Github Brain WhatsApp Bot
